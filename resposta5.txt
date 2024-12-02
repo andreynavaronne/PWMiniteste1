@@ -1,0 +1,6 @@
+-- Questão 5 --
+
+Primeiramente, criaria um repositório com acesso para nós dois, para que seja possível o nosso trabalho simultâneo.
+Posteriormente, escolheremos as ferramentas para o desenvolvimento, onde, possivelmente, escolheríamos JavaScript, HTML e CSS como linguagens.
+A IDE seria a qualquer que fosse definida por cada programador, já que o versionamento daria um jeito de ligar os códigos dos dois.
+Para boas práticas, colocar prazos para a realização dos trabalhos é fundamental para o andamento do projeto.
