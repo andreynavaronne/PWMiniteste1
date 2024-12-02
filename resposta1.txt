@@ -1,0 +1,5 @@
+-- Questão 1 --
+
+O World Wide Web, ou WWW, foi criada para compartilhamento de informações de forma eficiente.
+Já o HTML é uma linguagem que organiza tais informações, para que fique de forma mais prática de visualizar.
+Logo, os dois foram importantes para a disseminação de informações, e melhorar a comunicação entre todas as pessoas do planeta.
