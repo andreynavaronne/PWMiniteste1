@@ -1,0 +1,5 @@
+-- Questão 2 --
+
+1. HTML: auxilia no versionamento das informações, e as organiza.
+2. JavaScript: consegue fazer com que a página web seja interativa, permitindo algumas novas funcionalidades.
+3. APIs: interfaces que conectam o frontend (a camada mais externa das páginas, onde tem contato direto com o usuário) com o backend (camada mais interna, onde ficam salvas os dados e as operações com eles).
