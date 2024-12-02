@@ -1,0 +1,3 @@
+-- Questão 3 --
+
+Versionamento é o processo de gerenciar as mudanças do código, enquanto ele for sendo mudado. 
