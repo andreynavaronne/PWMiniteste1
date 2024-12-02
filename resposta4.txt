@@ -1,0 +1,4 @@
+-- Questão 4 --
+
+O JavaScript foi de fundamental importância para o desenvolvimento web moderno por conta do seu acesso a várias outras ferramentas que existem para ela.
+Dentro do próprio JS, existem diversas ferramentas e bibliotecas que deixam a linguagem muito completa, para qualquer tipo de finalidade (frontend ou backend).
